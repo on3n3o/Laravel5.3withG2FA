@@ -47,8 +47,6 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `email`, `name`, `password`, `active`, `pic`, `updated_at`, `created_at`, `remember_token`, `google2fa_secret`) VALUES
-(1, 'on3n3o@gmail.com', 'Admin', '$2y$10$xxzbZsHp3UzYTt.t.BO39.fyrhGunyYf4/CRuhQsjWfu75g57IVjG', NULL, NULL, '2017-08-21', '2017-08-20', 'naL5Nn9asVEEseNw2iqAPTCZlwcfWOfBOql8TYHZr2EQ8VhHV0HsvVmEAjEh', NULL);
 
 --
 -- Indexes for dumped tables
